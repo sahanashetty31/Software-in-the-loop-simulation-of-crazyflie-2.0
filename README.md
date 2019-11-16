@@ -4,7 +4,9 @@ Steps to start the launch file of crazyflie 2.0.
 Start with the script that will launch Gazebo. The launch file maybe crazyflie_sim.launch .
 
 $ cd '/home/shetty/catkin_ws/src/crazyflie_ros/crazyflie_2.0/crazyflie_gazebo/launch' 
+
 $ ls
+
 $ roslaunch crazyflie_sim.launch
 
 
