@@ -1,4 +1,6 @@
-# Software in the loop simulation of crazyflie 2.0
+# Project: Human in the loop control of Multi Agent Systems
+
+## Software in the loop simulation of crazyflie 2.0
 
 Steps to start the launch file of crazyflie 2.0.
 Start with the script that will launch Gazebo. The launch file maybe crazyflie_sim.launch .
